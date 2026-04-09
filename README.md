@@ -146,40 +146,10 @@ That is normal. A meta description is **not** shown as regular content in the pa
 
 ---
 
-## What to Submit
-
-Submit the link to your **GitHub repository** for this coding exercise.
-
-Your repository should include your completed version of the files with:
-
-- a meta description added
-- a favicon link added
-- the new code placed in the correct location inside the `<head>`
-
----
-
-## Grading Focus
-
-I will be checking to see whether you:
-
-- added both required items
-- used the correct HTML tags
-- placed them inside the `<head>`
-- used the correct favicon file path
-- kept the rest of the project working correctly
-
----
 
 ## Optional Follow-Up
 
 After completing this exercise, try adding a favicon to your **final project website** as well.
 
-This is not required for this coding exercise, but it is a nice way to make your final project feel a little more polished.
+That's is not required for this coding exercise, but it is a nice way to make your final project feel a little more polished.
 
----
-
-## Reminder
-
-This exercise is about understanding what the `<head>` does and how small behind-the-scenes details can improve a webpage.
-
-Take your time, test your work carefully, and pay attention to where each line of code belongs.
